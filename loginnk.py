@@ -67,7 +67,7 @@ Accept-Language: zh-cn'''.format(visitorId=self.visitorId, host=self.host, userA
         sock.close()
         return result
 
-#ceshi=LoginInit('15245871026','huanxiangmf1Q')
+#ceshi=LoginInit('','')
 #print (ceshi.sendRequestsToHost(data=ceshi.getLoginRequests()))
 
 class BuySnkrs:
